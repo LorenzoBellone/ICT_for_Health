@@ -4,6 +4,7 @@ Laboratory activities from ICT for Health course at Politecnico di Torino
 # Master degree
 ICT for Smart Societies - Politecnico di Torino
 # Software
+* Python
 * MATLAB
 # Authors
 * Lorenzo Bellone
